@@ -1,7 +1,7 @@
 import os
 
 project_name = "MyLibrary"
-src_dir = f"{project_name}/Sources/{project_name}"
+src_dir = f"{project_name}"
 tests_dir = f"{project_name}/Tests/{project_name}Tests"
 
 structure = {
